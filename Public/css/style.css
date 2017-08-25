@@ -1,0 +1,115 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body{
+  background: linear-gradient(to right, #f857a6, #ff5858); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  padding-top: 25px;
+  padding-bottom: 20px;
+}
+
+/*=======================================================================
+  $NAVBARS$
+  ======================================================================*/
+.topper{
+    font-size: 30px;
+    color: #F9D8F0;
+    font-family: 'Lobster', cursive;
+}
+
+.navbar-brand{
+  font-family: 'Lobster', cursive;
+}
+
+.navbar-toggle{
+  color: #DAA520;
+}
+
+
+.topper.hover{
+
+    color: #FFA500	;
+    text-decoration:underlined;
+}
+a:hover, a:focus {
+    color: #F83A6D  ;
+    text-decoration: underline;
+    border-radius: 42%;
+
+}
+.topper.focus{
+  font-color:#DAA520;
+}
+
+.nav>li>a:focus {
+    text-decoration:underline;
+    background-color: white ;
+}
+
+/*font family*/
+.jumbotron h1, .jumbotron .h1 {
+  color: #F7097D;
+}
+
+.lobster{
+    font-size: 34px;
+    font-family:'Oleo Script', cursive;
+    color:#F7097D;
+
+}
+
+.jumbotron p {
+  margin-bottom: 15px;
+  font-size: 28px;
+  font-weight: 200;
+  color:#EE77A0;
+  font-family: 'Great Vibes', cursive;
+}
+
+.lobster.hover{
+  font-size: 32px;
+  font-family: 'UnifrakturCook', cursive;
+  color:#FFA500	;
+}
+
+/*center anything with this class*/
+.center{
+    width: 50%;
+    margin:0 auto;
+
+}
+
+
+.navbar-toggle{
+    background-color: aliceblue;
+}
+/*========================================================================*/
+
+/*========================================================================*/
+
+.details{
+  font-family: 'Kaushan Script', cursive;
+  color: #EB9B16;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: cursive;
+    font-weight: 500;
+    line-height: 1.1;
+    color: #F5DBF3;
+}
+/*========================================================================*/
+
+/*========================================================================*/
+            /* CONTACT */
+/*========================================================================*/
+body {
+    font-family: cursive;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color:lavenderblush;
+  }
+/*=========================================================================
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+==========================================================================*/
